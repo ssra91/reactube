@@ -1,3 +1,5 @@
+## yarn start
+
 ## TODO(로직위주)
 
 ### router 세팅
