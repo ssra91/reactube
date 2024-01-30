@@ -1,4 +1,4 @@
-## TODO
+## TODO(로직위주)
 
 ### router 세팅
 * react-router-dom 설치
